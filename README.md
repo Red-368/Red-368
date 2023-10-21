@@ -1,4 +1,4 @@
-- Hi! I’m @Red-368 :)
+- Hi! I’m @Red-368 but you can call me Rebe :)
 - Information science student @ UIUC 
 - Interested in UX/UI Design and Web Development 
 - Use HTML, css, and Javascript
